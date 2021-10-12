@@ -14,6 +14,7 @@
 - You will see a message that either outputs the value, or displays an error
 
 # Explanation of the problem
+- All pertinent code is contained in`explore-container.component.ts`
 - In the example, we create a table (`jsonTable`) with a single column (`jsonData`)
 - We insert the following value: `{ numberProp: 5 }`
 - We then attempt to select that value in one of two ways:
