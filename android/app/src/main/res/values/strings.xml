@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">secure-storage-bug</string>
+    <string name="title_activity_main">secure-storage-bug</string>
+    <string name="package_name">com.cartegraph.securestoragebug</string>
+    <string name="custom_url_scheme">com.cartegraph.securestoragebug</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+	"appId": "com.cartegraph.securestoragebug",
+	"appName": "secure-storage-bug",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
