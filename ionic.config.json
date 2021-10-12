@@ -1,5 +1,14 @@
 {
   "name": "ionic-app-base",
-  "integrations": {},
+  "integrations": {
+    "enterprise": {
+      "keyId": 1,
+      "productKey": "xxx",
+      "appId": "xxx",
+      "registries": [
+        "@ionic-enterprise;https://registry.ionicframework.com/"
+      ]
+    }
+  },
   "type": "angular"
 }

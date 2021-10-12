@@ -1,4 +1,7 @@
 <div id="container">
   <strong>{{ name }}</strong>
   <p>Explore <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+  <ion-button expand="full" (click)="getWithoutError()">Get data</ion-button>
+  <ion-button expand="full" (click)="getWithError()">Get with error</ion-button>
+  <ion-label>{{ message }}</ion-label>
 </div>
